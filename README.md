@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Madusanka</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
 
-- 📫 How to reach me **madusankaroshan099@gmail.com**
+- 📫 How to reach me **madusankaroshan099@gmail.com** / **+94768030577**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
